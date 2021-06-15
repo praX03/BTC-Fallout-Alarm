@@ -1,0 +1,5 @@
+[configuration]
+password_token = <YOUR_PASSWORD>
+sender_email = <SENDER_EMAIL_ID>
+reciever_email = <RECIEVER_EMAIL_ID>
+
