@@ -5,8 +5,10 @@ Alternatively, you can also use it to alarm you when Bitcoin's prices reaches to
 
 ## How to use the script
 
-This code is written in **Python3.8.5**
+This code is written in **Python3.8.5**.
+
 There are some pre-requisites before running the script.
+
 **Make sure you have the following Python packages installed in your system**
 - Requests,
 - BeautifulSoup,
