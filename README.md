@@ -28,7 +28,7 @@ You can easily add your mail ID from which you want to send the mail in sender_m
 
 **For adding the password token, there are few steps that have to be taken before being able to add the password**
 
-**if(2-Step-Verification enabled in your mail account):**
+_**if(2-Step-Verification enabled in your mail account):**_
 
 Switch to a more secure app or device
 Create & use App Passwords
@@ -46,7 +46,7 @@ If you use 2-Step-Verification and get a "password incorrect" error when you sig
 - Tap Done.
 > Tip: Most of the time, you’ll only have to enter an App Password once per app or device, so don’t worry about memorizing it.
 
-**else:**
+_**else:**_
 
 - Go to [Less Secure App Access](https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4O-GUFRq2YIMVUlBddVpK3gKg9v-pX6QX_TwPnlFNqKiIEWKX0pKCfxNxgtNFWdjXgfmBVQdZ-Nnvy3GJS5IcHMsSRNYA).
 - Create an access for using mail on your device.
