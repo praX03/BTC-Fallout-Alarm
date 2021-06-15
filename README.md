@@ -29,6 +29,7 @@ You can easily add your mail ID from which you want to send the mail in sender_m
 **For adding the password token, there are few steps that have to be taken before being able to add the password**
 
 **if(2-Step-Verification enabled in your mail account):**
+
 Switch to a more secure app or device
 Create & use App Passwords
 If you use 2-Step-Verification and get a "password incorrect" error when you sign in, you can try to use an App Password.
